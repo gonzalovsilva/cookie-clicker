@@ -3,7 +3,7 @@
 Collaborative project of an incremental game / cookie clicker
 
 ## Checkout our page
-[GitHub Page](https://marchoutreille.github.io/cookie-clicker)
+[GitHub Page](https://gonzalovsilva.github.io/cookie-clicker/)
 
 ### Font-type for buttons: 
 Rubik
